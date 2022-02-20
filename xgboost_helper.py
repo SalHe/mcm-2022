@@ -3,7 +3,7 @@ import numpy as np
 import xgboost
 
 def series_to_supervised(data, n_in=1, n_out=1, dropnan=True):
-    n_vars = i if type(data) is list else data.shape[1]
+    n_vars = 1 if type(data) is list else data.shape[1]
     df = pd.DataFrame(data)
     df.reset_index(drop=True, inplace=True)
     df = df.iloc[:, n_vars-1:]
