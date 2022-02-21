@@ -20,6 +20,8 @@ LABEL_GOLD_INCREASE = 'Gold Increasement'
 LABEL_BTC_INCREASE = 'BTC Increasement'
 LABEL_GOLD_INCREASE_PERCENT = 'Gold Increasement Percent'
 LABEL_BTC_INCREASE_PERCENT = 'BTC Increasement Percent'
+LABEL_GOLD_INCREASE_PERCENT_ACTUAL = 'Gold Increasement Percent Actual'
+LABEL_BTC_INCREASE_PERCENT_ACTUAL = 'BTC Increasement Percent Actual'
 
 LABEL_ACCURACY_BTC = 'Accuracy BTC'
 LABEL_ACCURACY_GOLD = 'Accuracy Gold'
@@ -31,3 +33,7 @@ LABEL_BIAS_BTC = 'Bias BTC'
 
 LABEL_KELLY_BUY_IN_BTC = "Kelly's Buy In BTC"
 LABEL_KELLY_BUY_IN_GOLD = "Kelly's Buy In Gold"
+
+LABEL_ASSETS_CASH = 'Cash In Hand'
+LABEL_ASSETS_GOLD = 'Gold In Hand'
+LABEL_ASSETS_BTC = 'BTC In Hand'
