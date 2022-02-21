@@ -23,3 +23,11 @@ LABEL_BTC_INCREASE_PERCENT = 'BTC Increasement Percent'
 
 LABEL_ACCURACY_BTC = 'Accuracy BTC'
 LABEL_ACCURACY_GOLD = 'Accuracy Gold'
+LABEL_ACCURACY_BTC_IN_PAST = 'Accuracy BTC In Past'
+LABEL_ACCURACY_GOLD_IN_PAST = 'Accuracy Gold In Past'
+
+LABEL_BIAS_GOLD = 'Bias Gold'
+LABEL_BIAS_BTC = 'Bias BTC'
+
+LABEL_KELLY_BUY_IN_BTC = "Kelly's Buy In BTC"
+LABEL_KELLY_BUY_IN_GOLD = "Kelly's Buy In Gold"
