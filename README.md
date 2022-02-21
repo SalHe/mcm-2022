@@ -10,4 +10,5 @@
 ## 代码与笔记
 
 - [股价预测](./trading-strategy.ipynb)
-- [交易策略](./try-trade2.ipynb)
+- [策略分析](./conbine.ipynb)
+- [模拟交易](./try-trade2.ipynb)
